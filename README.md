@@ -9,3 +9,13 @@ Fazer a soma de dois números e exibir na tela o resultado formatado exibindo qu
 <li>FLOAT
 <li>BOOL
 <li>STRING</ul></p>
+<p>Operadores Matemáticos<br></b>
+<ul>
+  <li>Soma
+  <li>Subtração 
+  <li>Multiplicação
+  <li>Divisão
+  <li>Exponenciação
+  <li>Módulo
+  <li>Resto   
+</ul>
